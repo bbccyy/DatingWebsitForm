@@ -1,0 +1,17 @@
+.yellowBackground {background: lightyellow; border: 10px solid yellow}
+.fieldSize {border: 10px solid yellow; margin-bottom: 10px; width: 720px}
+.isText {text-align: center; background: red; vertical-align: top}
+.isText2 {text-align: center; background: purple; vertical-align: top}
+.isTextArea {width: 360px; height: 50px}
+.fontArial {font-family: Arial}
+
+h1 {font-weight: bold; font-family: Arial}
+body {font-family: Arial}
+
+label {width: 180px; display: inline-block; text-align: right; vertical-align: top}
+.labelCheckBox {width: auto}
+
+label:hover {font-size: 40px}
+legend:hover {font-size: 40px}
+h1:hover {font-size: 40px}
+span:hover {font-size: 40px}
